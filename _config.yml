@@ -4,7 +4,7 @@ subtitle: Portfolio
 email: lee.p.parham@gmail.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://parhaml.github.io" # the base hostname & protocol for your site
 author: Lee Parham
 street_address: 1415 S. Taylor St.
 city: Little Rock
