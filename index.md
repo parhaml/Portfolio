@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Lee'
-description: A site to demonstrate how Awesome I am.
+description: A Brief Introduction.
 image: null
 author: Lee Parham
 ---
